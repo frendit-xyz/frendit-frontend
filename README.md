@@ -2,7 +2,8 @@
 ## Technologies Used
 
 - React
-- OpenWeatherMap API
+- Tailwind CSS
+- Konsta UI
 
 ## API Documentation
 
