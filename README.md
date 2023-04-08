@@ -1,1 +1,1 @@
-# frendit-frontend
+# Vite React Konsta Tailwind
